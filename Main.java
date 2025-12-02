@@ -6,8 +6,8 @@ import java.util.List;
 /**
  * Write a description of class Main here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Kara
+ * @version F25
  */
 public class Main
 {
